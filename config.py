@@ -1,7 +1,7 @@
 import time
 import requests
-TOKEN = "7181129180:AAHPNcBnED62zAHJaDw3q27NMfq8Oe6Jt4s"
-folder_id = "b1g7scu9jilatp911rei"
+TOKEN = "***"
+folder_id = "***"
 MAX_PROJECT_TOKENS = 10000
 MAX_USERS = 2
 MAX_SESSIONS = 2
